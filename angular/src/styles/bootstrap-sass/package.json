@@ -66,7 +66,7 @@
   "dependencies": {},
   "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
   "devDependencies": {
-    "ejs": "~2.4.2",
+    "ejs": "~3.0.1",
     "mincer": "~1.4.0",
     "node-sass": "^3.8.0"
   },
